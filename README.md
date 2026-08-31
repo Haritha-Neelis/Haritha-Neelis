@@ -20,12 +20,10 @@ style="border-radius:16px; margin-left:20px"/>
 &nbsp;&nbsp;experiences. Beyond backend engineering, I'm currently diving into AI and emerging technologies, 
 &nbsp;&nbsp;driven by curiosity and a mindset of continuous growth. 🚀 
 <br/>
-
-&nbsp;&nbsp;🔭 &nbsp;Working on **scalable backend systems & AI integrations**  
-&nbsp;&nbsp;🤖 &nbsp;Deep interest in **NLP, LLMs & ML pipelines**  
-&nbsp;&nbsp;🌱 &nbsp;Currently exploring **RAG, MLOps & Vector DBs**  
-&nbsp;&nbsp;💬 &nbsp;Talk to me about **Python, APIs, Data Science**  
-&nbsp;&nbsp;⚡ &nbsp;I make data stories that *non-data people* actually get  
+&nbsp;&nbsp;🚀 &nbsp;Building Scalable Backend Systems with Java, Springboot and Microservices
+&nbsp;&nbsp;🌱 &nbsp;Currently exploring **AI Integration, LLMs,  Vector DBs and AI ecosystem** 
+&nbsp;&nbsp;🤖 &nbsp;Learning something new, breaking something, fixing it - repeat**  
+ 
 
 <br/>
 
