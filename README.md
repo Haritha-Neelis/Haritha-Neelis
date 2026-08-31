@@ -15,12 +15,17 @@
 <img align="right" width="320" src="https://giphy.com/gifs/loosekeys-animation-animated-xT39CV47COkGPZO3HG" 
 style="border-radius:16px; margin-left:20px"/>
 
-&nbsp;&nbsp;Hi! I'm **Haritha**👋, a backend developer specializing in Java, Spring Boot, Microservices, and 
-&nbsp;&nbsp;scalable application development. I'm passionate about building reliable systems that power great user 
+&nbsp;&nbsp;Hi! I'm **Haritha Neelisetty**👋, a backend developer specializing in Java, Spring Boot, 
+&nbsp;&nbsp;Microservices, and scalable application development. 
+&nbsp;&nbsp;I'm passionate about building reliable systems that power great user 
 &nbsp;&nbsp;experiences. Beyond backend engineering, I'm currently diving into AI and emerging technologies, 
 &nbsp;&nbsp;driven by curiosity and a mindset of continuous growth. 🚀 
+
+
 <br/>
-&nbsp;&nbsp;🚀 &nbsp;Building Scalable Backend Systems with Java, Springboot and Microservices
+
+
+&nbsp;&nbsp;🚀 &nbsp;Building Scalable **Backend Systems with Java, Springboot and Microservices**
 &nbsp;&nbsp;🌱 &nbsp;Currently exploring **AI Integration, LLMs,  Vector DBs and AI ecosystem** 
 &nbsp;&nbsp;🤖 &nbsp;Learning something new, breaking something, fixing it - repeat**  
  
@@ -33,7 +38,7 @@ style="border-radius:16px; margin-left:20px"/>
 
 <div align="center">
 
-## 🌐 Find Me Here
+## 🌐 Lets connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haritha-neelisetty-21b5681a1)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haritha.neelisetty@gmail.com)&nbsp;
@@ -51,22 +56,22 @@ style="border-radius:16px; margin-left:20px"/>
 
 <div align="center">
 
-## 💻 Tech Stack
+## 💻 Tech
 
 <br/>
 
-**🌸 Languages**
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-ff6fd8?style=for-the-badge&logo=springboot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-facc15?style=for-the-badge&logo=microservices&logoColor=black)
 ![Kafka](https://img.shields.io/badge/Kafka-38bdf8?style=for-the-badge&logo=kafka&logoColor=white)
-![GroovyScripting](https://img.shields.io/badge/GroovyScripting-a855f7?style=for-the-badge&logo=groovyscripting&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-a855f7?style=for-the-badge&logo=sqlite&logoColor=white)
+![GroovyScripting](https://img.shields.io/badge/GroovyScripting-facc15?style=for-the-badge&logo=groovyscripting&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-38bdf8?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-a855f7?style=for-the-badge&logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-a855f7?style=for-the-badge&logo=css&logoColor=white)
-![LearningAI](https://img.shields.io/badge/LearningAI-a855f7?style=for-the-badge&logo=learningAI&logoColor=white)
-![NeworkingDomain](https://img.shields.io/badge/NeworkingDomain-a855f7?style=for-the-badge&logo=networkingdomain&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-facc15?style=for-the-badge&logo=css&logoColor=white)
+![LearningAI](https://img.shields.io/badge/LearningAI-38bdf8?style=for-the-badge&logo=learningAI&logoColor=white)
+![NeworkingDomain](https://img.shields.io/badge/NeworkingDomain-ef4444?style=for-the-badge&logo=networkingdomain&logoColor=white)
 
 
 <br/>
@@ -112,16 +117,6 @@ style="border-radius:16px; margin-left:20px"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haritha-Neelis&bg_color=0d001a&color=ff6fd8&line=a855f7&point=38bdf8&area=true&hide_border=true&border_radius=16" width="95%"/>
 
 <br/><br/>
-
-## 🐍 Swallowing My Contributions
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haritha-Neelis/Haritha-Neelis/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haritha-Neelis/Haritha-Neelis/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Haritha-Neelis/Haritha-Neelis/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</picture>
 
 </div>
 
