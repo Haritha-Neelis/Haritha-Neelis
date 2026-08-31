@@ -12,10 +12,10 @@
 
 ## 💜 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTN0czBuaTB0YWR5azRraXpvdnJ2eWs1YnB5em9wcmtobmllZHNwcCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/64agTj4WWYyw1FgC6G/giphy.gif" 
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTN0czBuaTB0YWR5azRraXpvdnJ2eWs1YnB5em9wcmtobmllZHNwcCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/64agTj4WWYyw1FgC6G/giphy.gif" 
 style="border-radius:16px; margin-left:20px"/>
 
-&nbsp;&nbsp;Hi! I'm **Haritha Neelisetty**👋, a backend developer specializing in Java, Spring Boot, 
+&nbsp;&nbsp;Hi! I'm **Haritha Neelisetty**👋, a backend developer specializing in Java, SpringBoot, 
 &nbsp;&nbsp;Microservices, and scalable application development. 
 
 &nbsp;&nbsp;Passionate about building reliable systems that power great user 
@@ -125,12 +125,6 @@ style="border-radius:16px; margin-left:20px"/>
 
 </div>
 
-<br/>
-
----
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,25:38bdf8,50:6366f1,75:a855f7,100:ff6fd8&height=120&section=footer&text=%20HarithaNeelisetty&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:34d399,25:38bdf8,50:6366f1,75:a855f7,100:ff6fd8&height=120&section=footer&text=%20HarithaNeelisetty&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
