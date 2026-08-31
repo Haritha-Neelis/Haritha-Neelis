@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6FD8&center=true&vCenter=true&width=650&lines=Building+intelligent+backend+systems+%F0%9F%9A%80;Turning+data+into+decisions+%F0%9F%A7%A0;Passionate+about+AI+%26+Data+Science+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6FD8&center=true&vCenter=true&width=650&lines=Building+intelligent+backend+systems+%F0%9F%9A%80;Curious+mind.+Builder+mindset+Always+shipping+and+evolving+%F0%9F%A7%A0;Passionate+about+learning+AI+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 </div>
 
@@ -58,15 +58,15 @@ style="border-radius:16px; margin-left:20px"/>
 **🌸 Languages**
 
 ![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Python-ff6fd8?style=for-the-badge&logo=springboot&logoColor=white)
-![Microservices](https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=microservices&logoColor=black)
-![Kafka](https://img.shields.io/badge/TypeScript-38bdf8?style=for-the-badge&logo=kafka&logoColor=white)
-![Grrovyscripting](https://img.shields.io/badge/SQL-a855f7?style=for-the-badge&logo=groovyscripting&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-ff6fd8?style=for-the-badge&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-facc15?style=for-the-badge&logo=microservices&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-38bdf8?style=for-the-badge&logo=kafka&logoColor=white)
+![GroovyScripting](https://img.shields.io/badge/GroovyScripting-a855f7?style=for-the-badge&logo=groovyscripting&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-a855f7?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/SQL-a855f7?style=for-the-badge&logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/SQL-a855f7?style=for-the-badge&logo=css&logoColor=white)
-![Learning AI](https://img.shields.io/badge/SQL-a855f7?style=for-the-badge&logo=learningAI&logoColor=white)
-![Neworking Domain](https://img.shields.io/badge/SQL-a855f7?style=for-the-badge&logo=networkingdomain&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-a855f7?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-a855f7?style=for-the-badge&logo=css&logoColor=white)
+![LearningAI](https://img.shields.io/badge/LearningAI-a855f7?style=for-the-badge&logo=learningAI&logoColor=white)
+![NeworkingDomain](https://img.shields.io/badge/NeworkingDomain-a855f7?style=for-the-badge&logo=networkingdomain&logoColor=white)
 
 
 <br/>
