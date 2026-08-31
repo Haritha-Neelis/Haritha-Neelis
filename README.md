@@ -12,7 +12,7 @@
 
 ## 💜 About Me
 
-<img align="right" width="320" src="https://giphy.com/gifs/loosekeys-animation-animated-xT39CV47COkGPZO3HG" 
+<img align="right" width="320" src="https://giphy.com/gifs/flow-productions-art-illustration-loop-Rs0JBoGpPxMAlnVc8y" 
 style="border-radius:16px; margin-left:20px"/>
 
 &nbsp;&nbsp;Hi! I'm **Haritha Neelisetty**👋, a backend developer specializing in Java, Spring Boot, 
