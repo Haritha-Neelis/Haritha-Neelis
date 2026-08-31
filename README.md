@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6FD8&center=true&vCenter=true&width=650&lines=Building+intelligent+backend+systems+%F0%9F%9A%80;Curious+mind.+Builder+mindset+Always+shipping+and+evolving+%F0%9F%A7%A0;Passionate+about+learning+AI+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6FD8&center=true&vCenter=true&width=650&lines=Building+backend+systems+%F0%9F%9A%80;curious+mind+Builder+mindset+Always+shipping+and+evolving+%F0%9F%A7%A0;Passionate+about+learning+AI+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,8 +17,11 @@ style="border-radius:16px; margin-left:20px"/>
 
 &nbsp;&nbsp;Hi! I'm **Haritha Neelisetty**👋, a backend developer specializing in Java, Spring Boot, 
 &nbsp;&nbsp;Microservices, and scalable application development. 
+
 &nbsp;&nbsp;I'm passionate about building reliable systems that power great user 
-&nbsp;&nbsp;experiences. Beyond backend engineering, I'm currently diving into AI and emerging technologies, 
+&nbsp;&nbsp;experiences. Beyond backend engineering, 
+
+&nbsp;&nbsp;I'm currently diving into AI and emerging technologies, 
 &nbsp;&nbsp;driven by curiosity and a mindset of continuous growth. 🚀 
 
 
@@ -26,7 +29,9 @@ style="border-radius:16px; margin-left:20px"/>
 
 
 &nbsp;&nbsp;🚀 &nbsp;Building Scalable **Backend Systems with Java, Springboot and Microservices**
+
 &nbsp;&nbsp;🌱 &nbsp;Currently exploring **AI Integration, LLMs,  Vector DBs and AI ecosystem** 
+
 &nbsp;&nbsp;🤖 &nbsp;Learning something new, breaking something, fixing it - repeat**  
  
 
@@ -125,12 +130,6 @@ style="border-radius:16px; margin-left:20px"/>
 ---
 
 <br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Haritha-Neelis&style=for-the-badge&color=ff6fd8&labelColor=0d001a&label=PROFILE+VIEWS)
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,25:38bdf8,50:6366f1,75:a855f7,100:ff6fd8&height=120&section=footer&text=by%20Harithaneelisetty&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
