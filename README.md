@@ -82,6 +82,7 @@ style="border-radius:16px; margin-left:20px"/>
 <br/>
 
 **🗄️ Databases**
+
 ![Elasticsearch](https://img.shields.io/badge/SQL-a855f7?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-38bdf8?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ef4444?style=for-the-badge&logo=redis&logoColor=white)
