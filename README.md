@@ -99,30 +99,6 @@ style="border-radius:16px; margin-left:20px"/>
 
 <br/>
 
----
-
-<br/>
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haritha-Neelis&theme=2077" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haritha-Neelis&theme=2077" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haritha-Neelis&hide_border=true&background=0d001a&ring=ff6fd8&fire=f97316&currStreakLabel=ff6fd8&sideLabels=a855f7&dates=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haritha-Neelis&bg_color=0d001a&color=ff6fd8&line=a855f7&point=38bdf8&area=true&hide_border=true&border_radius=16" width="95%"/>
-
-<br/><br/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=egg&color=0:34d399,25:38bdf8,50:6366f1,75:a855f7,100:ff6fd8&height=120&section=footer&text=%20HarithaNeelisetty&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
