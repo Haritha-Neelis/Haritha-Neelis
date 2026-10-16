@@ -2,14 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=egg&height=300&color=gradient&text=Haritha%20Neelisetty&fontColor=100:3b82f6&textBg=false&animation=twinkling&desc=Senior%20Software%20Engineer---AI%20enthusiastic&rotate=0&fontSize=70&descAlign=50&descAlignY=63" width="100%"/>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6FD8&center=true&vCenter=true&width=650&lines=Teaching+AI+to+fetch+context+not+hallucinate+%F0%9F%9A%80;Builder+mindset.+Always+shipping.+evolving+%F0%9F%9A%80;forcing+LLMs+to+read+the+receipts+before+speaking+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
 ## 💜 About Me
 
 <img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTN0czBuaTB0YWR5azRraXpvdnJ2eWs1YnB5em9wcmtobmllZHNwcCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/64agTj4WWYyw1FgC6G/giphy.gif" 
@@ -57,6 +49,8 @@ style="border-radius:16px; margin-left:20px"/>
 <br/>
 
 **Languages**
+
+
 ![Python](https://img.shields.io/badge/Python-f97316?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-ff6fd8?style=for-the-badge&logo=springboot&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-facc15?style=for-the-badge&logo=microservices&logoColor=black)
