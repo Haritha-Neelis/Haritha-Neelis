@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6FD8&center=true&vCenter=true&width=650&lines=Teaching+AI+to+fetch+context+not+hallucinate+%F0%9F%9A%80;Builder+mindset.+Always+shipping.+evolving%F0%9F%92%9C;forcing+LLMs+to+read+the+receipts+before+speaking+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6FD8&center=true&vCenter=true&width=650&lines=Teaching+AI+to+fetch+context+not+hallucinate+%F0%9F%9A%80;Builder+mindset.+Always+shipping.+evolving+%F0%9F%9A%80;forcing+LLMs+to+read+the+receipts+before+speaking+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
