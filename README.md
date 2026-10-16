@@ -15,25 +15,16 @@
 <img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTN0czBuaTB0YWR5azRraXpvdnJ2eWs1YnB5em9wcmtobmllZHNwcCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/64agTj4WWYyw1FgC6G/giphy.gif" 
 style="border-radius:16px; margin-left:20px"/>
 
-&nbsp;&nbsp;Hi! I'm **Haritha Neelisetty**👋, a backend developer specializing in Java, SpringBoot, 
-&nbsp;&nbsp;Microservices, and scalable application development. 
+&nbsp;&nbsp;Hi! I'm **Haritha Neelisetty**👋
 
-&nbsp;&nbsp;Passionate about building reliable systems that power great user 
-&nbsp;&nbsp;experiences. Beyond backend engineering, 
-
-&nbsp;&nbsp;I'm currently diving into AI and emerging technologies, 
+&nbsp;&nbsp;Passionate about building production ready AI systems, training LLM models,
+&nbsp;&nbsp;architecting high-performance RAG pipelines connected directly with databases.
+&nbsp;&nbsp;Diving into AI and emerging technologies, 
 &nbsp;&nbsp;driven by curiosity and a mindset of continuous growth. 🚀 
-
-
 <br/>
 
-
-&nbsp;&nbsp;🚀 &nbsp;Building Scalable **Backend Systems with Java, Springboot and Microservices**
-
-&nbsp;&nbsp;🌱 &nbsp;Currently exploring **AI Integration, LLMs,  Vector DBs and AI ecosystem** 
-
+&nbsp;&nbsp;🚀 &nbsp;**AI Integration, LLMs,  Vector DBs and AI ecosystem** 
 &nbsp;&nbsp;🤖 &nbsp;Learning something new, breaking something, fixing it - repeat**  
- 
 
 <br/>
 
@@ -66,7 +57,15 @@ style="border-radius:16px; margin-left:20px"/>
 <br/>
 
 **Languages**
-
+![Python](https://img.shields.io/badge/Python-f97316?style=for-the-badge&logo=openjdk&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-ff6fd8?style=for-the-badge&logo=springboot&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-facc15?style=for-the-badge&logo=microservices&logoColor=black)
+![Generative AI](https://img.shields.io/badge/GenerativeAI-38bdf8?style=for-the-badge&logo=kafka&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-facc15?style=for-the-badge&logo=groovyscripting&logoColor=black)
+![LLMs](https://img.shields.io/badge/SQL-38bdf8?style=for-the-badge&logo=sqlite&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-facc15?style=for-the-badge&logo=groovyscripting&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-38bdf8?style=for-the-badge&logo=sqlite&logoColor=white)
+![Vector](https://img.shields.io/badge/HTML-a855f7?style=for-the-badge&logo=html&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-ff6fd8?style=for-the-badge&logo=springboot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-facc15?style=for-the-badge&logo=microservices&logoColor=black)
@@ -77,26 +76,6 @@ style="border-radius:16px; margin-left:20px"/>
 ![CSS](https://img.shields.io/badge/CSS-facc15?style=for-the-badge&logo=css&logoColor=white)
 ![LearningAI](https://img.shields.io/badge/LearningAI-38bdf8?style=for-the-badge&logo=learningAI&logoColor=white)
 ![NeworkingDomain](https://img.shields.io/badge/NeworkingDomain-ef4444?style=for-the-badge&logo=networkingdomain&logoColor=white)
-
-
-<br/>
-
-**🗄️ Databases**
-
-![Elasticsearch](https://img.shields.io/badge/SQL-a855f7?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-38bdf8?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-ef4444?style=for-the-badge&logo=redis&logoColor=white)
-
-<br/>
-
-
-**🛠️ DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-38bdf8?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-facc15?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
 
 <br/>
 
